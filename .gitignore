@@ -1,0 +1,42 @@
+# Godot generated files
+.godot/
+.import/
+.export/
+
+# Exported builds
+build/android/*.apk
+build/android/*.aab
+build/android/*.obb
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# GitHub local artifacts
+coverage/
