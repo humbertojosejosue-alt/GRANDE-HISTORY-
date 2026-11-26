@@ -40,3 +40,4 @@ venv/
 
 # GitHub local artifacts
 coverage/
+/android/
